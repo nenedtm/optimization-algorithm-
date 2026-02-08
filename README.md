@@ -34,7 +34,7 @@ This project was developed as an educational tool to:
 - Visualize optimization trajectories on complex landscapes
 - Study the impact of hyperparameters
 - Demonstrate practical considerations in optimizer selection
-- 
+  
 ## Requirements
 
 ```bash
