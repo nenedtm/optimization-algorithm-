@@ -1,4 +1,4 @@
-# Gradient-Based Optimization Algorithms: A Comparative Study
+# Gradient-Based Optimization Algorithms 🎯
 This project implements and visualizes six different gradient-based optimization algorithms:
 
 - **Gradient Descent (GD)**: The foundational algorithm that uses the full dataset gradient for each update. Guaranteed convergence for convex functions with proper learning rate, but computationally expensive.
