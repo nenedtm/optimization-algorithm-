@@ -340,3 +340,7 @@ The script monitors for:
 - No line search or adaptive learning rate schedules
 - No regularization or constraints
 - Results depend heavily on hyperparameter choices
+
+## 📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
